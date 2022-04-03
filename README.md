@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vipinraj7428
+- 👋 Hi, I’m Vipinraj Singh
 - 👀 I’m interested in java and python
 - 🌱 I’m currently learning both java and python
 - 💞️ I’m looking to collaborate with microsoft and it is my aim
